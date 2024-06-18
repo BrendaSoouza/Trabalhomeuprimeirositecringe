@@ -1,0 +1,35 @@
+
+body{
+    background-color:rgb(247, 238, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow-y: auto;
+    height: calc(100vh - 100px);
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+main {
+    color: white;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 100px;
+    overflow: auto;
+}
+.imagembemvindo {
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+}
+
+.Mensagembemvindo{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.849);
+    font-size: 20px;
+    padding-bottom: 900px;
+}
+footer{
+    height: calc(100vh - 100px);
+}

@@ -1,0 +1,17 @@
+body{ background-color:rgb(247, 238, 224);
+font-family: Georgia, 'Times New Roman', Times, serif;
+height: calc(100vh - 100px);
+}
+main {
+    display: flex;
+    overflow-y: auto; /* Adicionado rolagem vertical */
+    height: calc(100vh - 100px);
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 0px
+}
+footer{
+    height: calc(100vh - 100px);
+}
